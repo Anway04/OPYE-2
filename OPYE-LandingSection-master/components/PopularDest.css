@@ -1,0 +1,5 @@
+@media (min-width: 768px) {
+    .destination {
+      display: none; /* Hide the carousel for screens wider than 767px */
+    }
+  }

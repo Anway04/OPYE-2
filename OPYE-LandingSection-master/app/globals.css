@@ -215,3 +215,8 @@ body{
     color: #163247;
 }
 
+/* @media (min-width: 768px) {
+    .destination {
+      display: none; 
+    }
+  } */
